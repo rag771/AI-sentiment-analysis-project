@@ -1,0 +1,6 @@
+ringcentral
+openai
+whisper
+torch
+transformers
+tk
